@@ -1,0 +1,23 @@
+{
+    "data":[
+        {
+            "label":"Dashboard",
+            "icon":"pi pi-fw pi-home"
+        },
+        {
+            "label":"Users",
+            "icon":"pi pi-fw pi-user",
+            "items":[
+                {
+                    "label":"Admin",
+                    "icon":"pi pi-fw pi-user-plus"
+                },
+                {
+                    "label":"Standard",
+                    "icon":"pi pi-fw pi-user-minus"
+  
+                }
+            ]
+        }
+    ]
+}
